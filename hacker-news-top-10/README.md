@@ -1,5 +1,6 @@
 # Show top 10 articles from Hacker News
 
+> Credits:
 > This repository is the companion to the ["Show top 10 articles from Hacker News"](https://reactpractice.dev/exercise/show-top-10-articles-from-hacker-news/) practice exercise.
 
 Build a React component that shows a list of 10 articles from the Hacker News API.
@@ -18,4 +19,5 @@ When you're ready to check your work, check out [the official solution](https://
 - `npm install`
 - `npm run dev`
 
-Add your code to the `src/HackerNewsTop10.jsx` file.
+Try for yourself?
+Delete `src/HackerNewsTop10.jsx` file.
