@@ -1,0 +1,3 @@
+[submodule "hacker-news-top-10"]
+	path = hacker-news-top-10
+	url = https://github.com/edinmavric/hacker-news-top-10.git
